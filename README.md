@@ -2,4 +2,4 @@
 
 this is just a test - Jenn Jenn
 
-Another test conflict _ Jenn
+This is a modified line --- Another test conflict _ Jenn
